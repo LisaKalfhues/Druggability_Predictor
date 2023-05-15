@@ -9,6 +9,7 @@ This Predictor shows the working basic framework of a classification model, whic
 
 ## The Model
 <img width="428" alt="model_pipeline" src="https://github.com/LisaKalfhues/Druggability_Predictor/assets/125546845/93c56591-3c39-49bd-8fe2-3b7447ec0cf5">
+
 ###### *Used libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Imblearn*
 
 
