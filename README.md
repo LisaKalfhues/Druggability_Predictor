@@ -14,7 +14,12 @@ This Predictor shows the working basic framework of a classification model, whic
 
 
 ## Streamlit app
+For running the app in a docker container
 
+- clone repo locally
+- build image with docker build -t streamlitchurnapp:latest -f docker/Dockerfile .
+- run image with docker run -p 8501:8501 streamlitchurnapp:latest
+- in your web browser: map your localhost to port 8501 in container
 
 ## Credits
 - This project was part of the Data Science education and supervised by Spiced Academy Berlin
