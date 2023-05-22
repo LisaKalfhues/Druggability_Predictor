@@ -1,4 +1,4 @@
-# Druggability_Predictor
+# Druggability Predictor
 A classification machine learning model to predict druggabilities based on properties of protein targets
 
 
